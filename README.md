@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rachit Gupta</h1>
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rachit-gupta98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rachit-gupta98/" height="20" width="20" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_rachit_gupta/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_rachit_gupta/" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/rachit-gupta98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rachit-gupta98/" height="20" width="20" /></a>
+<a href="https://instagram.com/_rachit_gupta/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_rachit_gupta/" height="20" width="20" /></a>
 </p>
 <h3 align="center">Web Dev | Mobile App Dev</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachitgupta98" alt="rachitgupta98" /> </p>
