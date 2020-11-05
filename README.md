@@ -5,17 +5,7 @@
 <a href="https://instagram.com/_rachit_gupta/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_rachit_gupta/" height="20" width="20" /></a>
 </p>
 <h3 align="center">Web Dev | Mobile App Dev</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rachitgupta98" alt="rachitgupta98" /> </p>
 
-- 👯 I’m looking to collaborate on **open source projects** related to web and mobile app.
-
-- 🌱 I’m currently learning **Android**
-
-- 💬 Ask me about **react, node and react native**
-
-- 📫 How to reach me **guptarachit371@gmail.com**
-
-- ⚡ Fun fact **web series over movies**
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
